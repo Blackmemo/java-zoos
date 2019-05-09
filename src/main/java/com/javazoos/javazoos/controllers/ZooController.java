@@ -15,7 +15,6 @@ import java.net.URI;
 import java.net.URISyntaxException;
 
 @RestController
-@RequestMapping(value = "/project")
 public class ZooController
 {
     @Autowired
